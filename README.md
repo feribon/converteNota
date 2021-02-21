@@ -1,2 +1,2 @@
 # converteNota
- converte notas escolares de 0 a 100 para notas de A a E
+ converte notas escolares no padrao 0 a 100 para A a E
